@@ -1,5 +1,5 @@
 # TimeyBot
-## A cute IoT time tracker, includes:
+## A cute IoT time tracker, functions includes:
 -Stopwatch,
 -Timer,
 -Local Time,
