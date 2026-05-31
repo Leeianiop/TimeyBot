@@ -13,7 +13,7 @@ It features all-in-one functions and can be built on to add your own Songs, Func
 I made it specifically so that it doubles as a study partner, with time tracking and task reminder features and no distractions from other apps.  
 ## Required parts: 
 4-inch OLED display, ESP32, 4ohm square speaker, Button, (Optional for storing songs: SD Card, Sd Card Holder); check BOM for price list  
-STL files include: TimeyBot MAIN 2, TimeyBot Slider, backplate, HEADS file>> dog, cat  
+STL files include: (TimeyBot MAIN2), (TimeyBot Slider), (back plate), (HEADS file>> (dog), (cat) )
 ## How to Use?
 The starting page will be the Local Time Mode. Click the button on top (HEAD) to scroll down the menu and select different modes:
 Music Player Mode - Listening
