@@ -1,6 +1,6 @@
 # TimeyBot
 ![TimeyBot](images/ReadmeTimey.png)
-## A cute IoT time tracker, functions include:
+## A cute Time tracker, Base functions include:
 Stopwatch,
 Timer,
 Local Time,
@@ -9,9 +9,12 @@ Alarm,
 Music Player,
 Pomodoro Tracker.
 ## Why Timey
-The button on top of the case can be customized to any head; this file includes a dog head and a cat head.   
+
+It began when I was studying for exams; I always needed a study tool that was a time tracker and doubled as an audio player.  
+Sure, there were phone apps to do so, but i kept finding myself scrolling whenever I go check on it.  
+You could say I had been planing to make Timey for a long time  
 It features all-in-one functions and can be built on to add your own Songs, Functions, Design and more.  
-I made it specifically so that it doubles as a study partner, with time tracking and task reminder features and no distractions from other apps.  
+I made it specifically so that it doubles as a study partner, with time tracking and task reminder features and no distractions from other apps.    
 ## BOM
 
 | Component | Description | Unit Price | Qty | Total |
