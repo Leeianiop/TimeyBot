@@ -1,5 +1,5 @@
 # TimeyBot
-images/(TimeyBot.png)
+![images](TimeyBot.png)
 ## A cute IoT time tracker, functions include:
 Stopwatch,
 Timer,
