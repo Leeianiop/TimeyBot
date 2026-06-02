@@ -33,7 +33,7 @@ I made it specifically so that it doubles as a study partner, with time tracking
 
 ### Estimated Total Cost
 
-**$24.26 USD** 
+**$24.26 USD**   
 STL files include: (TimeyBot MAIN2), (TimeyBot Slider), (back plate), (HEADS file>> (dog), (cat) )
 ## How to Use?
 The starting page will be the Local Time Mode. Click the button on top (HEAD) to scroll down the menu and select different modes:
