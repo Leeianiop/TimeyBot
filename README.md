@@ -1,5 +1,5 @@
 # TimeyBot
-![TimeyBot](images/TimeyBot.png)
+![TimeyBot](images/ReadmeTimey.png)
 ## A cute IoT time tracker, functions include:
 Stopwatch,
 Timer,
