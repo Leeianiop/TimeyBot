@@ -24,7 +24,7 @@ I made it specifically so that it doubles as a study partner, with time tracking
 | Push Button | Control the UI | $0.66 | 1 | $0.66 |
 | Pin Header Female | Solder into PCB | $0.50 | 1 | $0.50 |
 
-### Optional Storage Upgrade
+### Optional Storage Upgrade (For MP3 files)
 
 | Component | Description | Price |
 |------------|------------|--------|
