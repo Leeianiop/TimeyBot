@@ -26,7 +26,9 @@ I made it specifically so that it doubles as a study partner, with time tracking
 | Jumper Wires (Female-Female) | Connect the Circuit | $1.48 | 1 | $1.48 |
 | USB to Micro USB Cable | Power the Circuit | $1.57 | 1 | $1.57 |
 | Push Button | Control the UI | $0.66 | 1 | $0.66 |
+| Screw (10 pcs) | Locking in the PCB and components | $1.20 | 1 | $1.20 |
 | Pin Header Female | Solder into PCB | $0.50 | 1 | $0.50 |
+| DS3231 RTC module | Track local time offline | $2.21 | 1 | $2.21 |
 
 ### Optional Storage Upgrade (For MP3 files)
 
