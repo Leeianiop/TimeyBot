@@ -1,5 +1,5 @@
 # TimeyBot
-![TimeyBot](images/ReadmeTimey.png)
+![TimeyBot](images/Timeyreadme.png)
 ## A cute Time tracker, Base functions include:
 Stopwatch,
 Timer,
