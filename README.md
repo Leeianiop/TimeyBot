@@ -29,6 +29,10 @@ I made it specifically so that it doubles as a study partner, with time tracking
 | Screw (10 pcs) | Locking in the PCB and components | $1.20 | 1 | $1.20 |
 | Pin Header Female | Solder into PCB | $0.50 | 1 | $0.50 |
 | DS3231 RTC module | Track local time offline | $2.21 | 1 | $2.21 |
+| Pin Header Male (1x40) |Connecting components with PCB | 1 | $0.12 |
+| 0805 SMD Ceramic Capacitor | Prevent brownout/ ESP crashes | 1 | $1.22 |
+| Terminal Block 2p | To connect USB cable to esp | 1 | $0.12 |
+| Hex Nut (M3) | To lock in button PCB and slider | 1 | $0.32 |
 
 ### Optional Storage Upgrade (For MP3 files)
 
@@ -39,7 +43,7 @@ I made it specifically so that it doubles as a study partner, with time tracking
 
 ### Estimated Total Cost
 
-**$24.26 USD**   
+**$29.33 USD**   
 STL files include: (TimeyBotMainCase), (TimeyBotSlider), (TimeyBotBackplate), (Extensions file>> (TimeyBot_eDog), (TimeyBot_eCat) )
 ## How to Use?
 The starting page will be the Local Time Mode. Click the button on top (HEAD) to scroll down the menu and select different modes:
