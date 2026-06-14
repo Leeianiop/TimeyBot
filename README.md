@@ -24,7 +24,7 @@ I made it specifically so that it doubles as a study partner, with time tracking
 | 4Ω Speaker | Playing Music and Alarms | $3.63 | 1 | $3.63 |
 | MAX98357 Amplifier | Amplify Sound | $3.27 | 1 | $3.27 |
 | Jumper Wires (Female-Female) | Connect the Circuit | $1.48 | 1 | $1.48 |
-| USB to Micro USB Cable | Power the Circuit | $1.57 | 1 | $1.57 |
+| USB to Wires Cable | Power the Circuit | $1.75 | 1 | $1.75 |
 | Push Button | Control the UI | $0.66 | 1 | $0.66 |
 | Screw (10 pcs) | Locking in the PCB and components | $1.20 | 1 | $1.20 |
 | Pin Header Female | Solder into PCB | $0.50 | 1 | $0.50 |
