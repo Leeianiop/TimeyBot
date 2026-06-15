@@ -46,7 +46,7 @@ I made it specifically so that it doubles as a study partner, with time tracking
 **$29.33 USD**   
 
 STL files include: (TimeyBotMainCase), (TimeyBotSlider), (TimeyBotBackplate), (Extensions file>> (TimeyBot_eDog), (TimeyBot_eCat) )
-PCB files include: (TimeyBotPCB), (TimeyBotSCH) 
+PCB files include: (TimeyBotPCB), (TimeyBotSCH)   
 ![TimeyBot](images/TimeyBotPCB.png)  
 ![TimeyBot](images/TimeyBotSchematic.png)  
 
