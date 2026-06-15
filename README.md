@@ -46,9 +46,10 @@ I made it specifically so that it doubles as a study partner, with time tracking
 **$29.33 USD**   
 
 STL files include: (TimeyBotMainCase), (TimeyBotSlider), (TimeyBotBackplate), (Extensions file>> (TimeyBot_eDog), (TimeyBot_eCat) )
-PCB files include: (TimeyBotPCB), (TimeyBotSCH)
-![TimeyBot](images/TimeyBotSchematic.png)
-![TimeyBot](images/TimeyBotPCB.png)
+PCB files include: (TimeyBotPCB), (TimeyBotSCH) 
+![TimeyBot](images/TimeyBotPCB.png)  
+![TimeyBot](images/TimeyBotSchematic.png)  
+
 ## How to Use?
 The starting page will be the Local Time Mode. Click the button on top (HEAD) to scroll down the menu and select different modes:
 - Music Player Mode - Listening  
