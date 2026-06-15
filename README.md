@@ -59,7 +59,8 @@ The starting page will be the Local Time Mode. Click the button on top (HEAD) to
 1. Print the STL files.  
 2. Upload the IDE code into the ESP32, remember to install ESP Boards and Adafruit Libraries. 
 3. Wire the components into the case as shown in the Wiring Diagram or Get the PCB board and connect according so.
-4. PCB goes and RTC and SD and AMP go behind where they are labeled in the STL file :)
-
+4. PCB goes and RTC and SD and AMP go behind where they are labeled in the STL file :)  
+![TimeyBot](images/rtc.png) ![TimeyBot](images/sd.png) 
+![TimeyBot](images/pcb.png) 
 Hope you like Mr Timey ;) 35 hours logged on this project (as of now)
 
